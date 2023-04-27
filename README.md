@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá, eu sou o Ikaro Gonçalves 👋
+## Desenvolvo Análise de dados, Automações Web e Desktop com Python
+## Progredindo em Desenvolvimento WEB
 
-<!--
-**IkaroGoncalves/IkaroGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikarogoncalves/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ikaro GitHub stats](https://github-readme-stats.vercel.app/api?username=IkaroGoncalves&show_icons=true&theme=dracula)
+
+### Tecnologias:
+
+<div style = "display: inline block"><br/>
+<img aligne= "center" alt = "Python"src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+<div style = "display: inline block"><br/>
+<img aligne= "center" alt = "My SQL"src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+<div style = "display: inline block"><br/>
+<img aligne= "center" alt = "Django"src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</div>
+
+<div style = "display: inline block"><br/>
+<img aligne= "center" alt = "HTML 5"src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div><br/>
+
+
+## E-mail: ikaro.g.silva1996@gmail.com
