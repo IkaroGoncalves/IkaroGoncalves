@@ -1,5 +1,5 @@
 ## Olá, eu sou o Ikaro Gonçalves 👋
-## Desenvolvo Análise de dados, Automações Web e Desktop com Python
+## Desenvolvo Análise de dados, Automações Web e Desktop
 ## Progredindo em Desenvolvimento WEB
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikarogoncalves/)
